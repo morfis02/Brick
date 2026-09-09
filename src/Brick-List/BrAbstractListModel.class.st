@@ -92,3 +92,8 @@ BrAbstractListModel >> shouldRequestFocusOnSelectionClick [
 BrAbstractListModel >> shouldRequestFocusOnSelectionClick: anObject [
 	shouldRequestFocusOnSelectionClick := anObject
 ]
+
+{ #category : #'as yet unclassified' }
+BrAbstractListModel >> test [
+	^'test'
+]
