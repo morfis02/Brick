@@ -97,3 +97,8 @@ BrTabGroup >> tabIndexOf: aBrTab [
 BrTabGroup >> tabs [
 	^ self viewModel tabs
 ]
+
+{ #category : #'as yet unclassified' }
+BrTabGroup >> testMethod [
+	^'test'
+]
